@@ -1,0 +1,4 @@
+packetdriver.c compiles and runs with no warnings or errors.
+
+my packet driver seems to work properly, however I occasionlay lose some packets
+but I think the amount of lost packets is reasonable.
